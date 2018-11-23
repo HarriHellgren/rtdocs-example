@@ -6,7 +6,7 @@
 How to use the WordCount program
 ================================
 
-The wordcount program is a python script, which reads an input file and writes the frequency distribution of words to the given output file.
+This program is a wordcounting a python script, which reads an input file and writes the frequency distribution of words to the given output file.
 
 
 .. toctree::
